@@ -138,8 +138,3 @@ Required Python libraries:
 - CSV logging for offline analysis  
 - FFT analysis on Python side  
 
----
-
-## License
-
-MIT License
